@@ -1,0 +1,143 @@
+site_name: Portfolio techniczne
+theme:
+  name: material
+
+  language: pl # Domyślny język interfejsu
+  
+  icon:
+    admonition:
+      note: material/pencil          # Zmienia ikonę notatki
+      warning: material/alert        # Zmienia ikonę ostrzeżenia
+      abstract: material/book        # Zmienia ikonę streszczenia
+      danger: material/skull         # Zmienia ikonę błędu/niebezpieczeństwa
+      tip: material/lightbulb-outline
+      info: material/information-outline
+
+
+  features:
+    #- navigation.tabs # Opcjonalnie: menu w formie zakładek
+    - i18n            # To aktywuje ikonę globusa dla języków
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.footer
+    
+    #- toc.integrate  # spis tresci z lewej str
+    - search.suggest
+    - search.highlight
+    - search.share
+
+    - content.code.copy # pokazuje przycisk do skopiowania sekcji na kod
+
+  palette:
+    # Tryb jasny
+    - scheme: default
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Tryb ciemny
+    - scheme: slate
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+
+plugins:
+  - search
+  #- mkdocs-pdf
+  - glightbox
+  - i18n:
+      default_language: pl
+      languages:
+        - locale: pl
+          name: Polski
+          default: true   # KLUCZOWE: Musi być tutaj
+          build: true     # KLUCZOWE: Musi być tutaj
+        - locale: en
+          name: English
+          build: true
+
+nav:
+  - Grzegorz Filemon Węgrzyniak: index.md
+  - Projekty, przy których pracowałem:
+    - Intelight - Oświetlenia Awaryjnego:
+      - Centralna Bateria: projekty_oswietlenie/centralna_bateria.md
+      - Komunikacja DALI: projekty_oswietlenie/komunikacja_dali.md
+      - Wireless Emergency Led Lighting System: projekty_oswietlenie/wells.md
+    - Mystery Express - Escape Room:
+      - Muzyczny Wieszak: projekty_escape-room/muzyczny_wieszak.md
+      - Pistolet Laserowy: projekty_escape-room/pistolet_laserowy.md
+      - Statyw do Księgi Zła: projekty_escape-room/statyw_ksiega.md
+
+  - Projekty własne:
+    - Elektroniczne:
+      - System nawadniania roślin domowych: projekty_elektroniczne/nawadnianie_roslin.md
+      - Ręczny generator prądu: projekty_elektroniczne/generator.md
+      - Generator piorunów Lichtenberga: projekty_elektroniczne/lichtenberg.md
+      #- Mini Dron: projekty-elektroniczne/esp32-dron.md
+      #- BESS model: projekty-elektroniczne/bess.md
+   # - Elektryczne:
+     # - Off-grid dom: projekty-elektryczne/offgrid-dom.md
+    #  - Mieszkanie w bloku: projekty-elektryczne/mieszkanie.md
+     # - Teatr: projekty-elektryczne/teatr.md
+      #- Urbex: projekty-elektryczne/urbex.md
+     # - Kalkulator: projekty-elektryczne/kalkulator.md
+    - Informatyczne:
+      - Microgrid BSM: projekty_informatyczne/microgrid_bsm.md
+      - Połączenie HTTP peer-to-peer na Androidzie - Flask i Termux: projekty_informatyczne/polaczenie_http.md
+
+      #- Optymalizacja zarządzania energią i komunikacja w systemach BESS w dronie ESP32: projekty-informatyczne/bess-dron.md
+     # - Niezależna komunikacja off przez w sieci LoRa: projekty-informatyczne/lora.md
+     # - Self hosted server pico W: blog/self-host-picoW.md
+
+  - Kontakt: kontakt.md  
+
+not_in_nav: |  
+  - Opisy projektów - krok po kroku:
+    - Połączenie HTTP peer-to-peer na Androidzie - Flask i Termux:
+      - Detekcja ruchu w FLASK: testy_polaczenie_http/efekt_koncowy.md
+      
+      # - Detekcja flask: testy_polaczenie_http/detekcja_flask.md
+      #- OLD Cały projekt komuniacji: testy_polaczenie_http/http-flask2.md
+      - Test 1 - Konfiguracja i odczyt zapytań Termux: testy_polaczenie_http/test1_termux.md
+      - Test 2 - Komunikacja Flask w sieci lokalnej: testy_polaczenie_http/test2_komunikacja.md
+      - Test 3 - Przesyłanie plików w sieci lokalnej: testy_polaczenie_http/test3_przesylanie.md
+     # - Tailscale - test polaczenia: testy_polaczenie_http/tailscale-test.md
+      - Test 4 - Komunikacja połączenia przez Tailscale: testy_polaczenie_http/test4_tailscale.md 
+      - Test 5 - Przyciski zapytań w API - HTTP Shortcut: testy_polaczenie_http/test5_app_short.md
+      #- Old - projekt komuniacji: testy_polaczenie_http/http-flask.md
+
+markdown_extensions:
+
+  - pymdownx.superfences:
+  
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.blocks.caption
+
+
+
+copyright: "Copyright &copy; 2026 f.g.wegrzyniak@gmail.com"
+
+
+#komendy na start localhost
+#source venv/bin/activate && mkdocs serve
+#source .venv/bin/activate && mkdocs serve
