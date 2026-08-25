@@ -2,7 +2,7 @@
 
 
 <video controls style="width: 90%; max-width: 700px; height: auto; display: block; margin: 0 auto;">
-  <source src="/img-and-mp4/projekty_wlasne/crank-gen-animation.mp4" type="video/mp4">
+  <source src="img-and-mp4/projekty_wlasne/crank-gen-animation.mp4" type="video/mp4">
 </video>
 
 
