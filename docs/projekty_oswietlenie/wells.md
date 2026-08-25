@@ -2,7 +2,7 @@
 
 # W.E.L.L.S - Bezprzewodowy System Monitorowania Oświetlenia Awaryjnego
 
-<div style="text-align: center; margin: 20px 0;"><img src="/img-and-mp4/projekty_praca/wells-topologia.png" alt="Zdjecie" style="width: 100%; max-width: 90%; height: auto; display: inline-block;"></div>
+<div style="text-align: center; margin: 20px 0;"><img src="img-and-mp4/projekty_praca/wells-topologia.png" alt="Zdjecie" style="width: 100%; max-width: 90%; height: auto; display: inline-block;"></div>
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-<div style="text-align: center; margin: 20px 0;"><img src="/img-and-mp4/projekty_praca/wells-front.png" alt="Zdjecie" style="width: 100%; max-width: 60%; height: auto; display: inline-block;"></div>
+<div style="text-align: center; margin: 20px 0;"><img src="img-and-mp4/projekty_praca/wells-front.png" alt="Zdjecie" style="width: 100%; max-width: 60%; height: auto; display: inline-block;"></div>
 
 
 ## Centrala Sterująca Systemu WELLS:
