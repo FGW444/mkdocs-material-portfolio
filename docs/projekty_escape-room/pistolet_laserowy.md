@@ -1,7 +1,7 @@
 
 
 <video controls style="width: 90%; max-width: 700px; height: auto; display: block; margin: 0 auto;">
-  <source src="/img-and-mp4/projekty_praca/laser_gun_animation.mp4" type="video/mp4">
+  <source src="img-and-mp4/projekty_praca/laser_gun_animation.mp4" type="video/mp4">
 </video>
 
 
@@ -30,7 +30,7 @@
 
 **Test izolacji wysokiego napięcia w module ładowania:**
 
-<div style="display: flex; justify-content: center; gap: 20px; width: 100%;"><video controls style="width: 45%; max-width: 400px; height: auto;"><source src="/img-and-mp4/projekty_praca/coil-test1.mp4" type="video/mp4"></video><video controls style="width: 45%; max-width: 400px; height: auto;"><source src="/img-and-mp4/projekty_praca/coil-test2.mp4" type="video/mp4"></video></div>
+<div style="display: flex; justify-content: center; gap: 20px; width: 100%;"><video controls style="width: 45%; max-width: 400px; height: auto;"><source src="img-and-mp4/projekty_praca/coil-test1.mp4" type="video/mp4"></video><video controls style="width: 45%; max-width: 400px; height: auto;"><source src="img-and-mp4/projekty_praca/coil-test2.mp4" type="video/mp4"></video></div>
 
 
 
@@ -50,6 +50,6 @@
 
 
 
-<video controls style="width: 70%; max-width: 400px; height: auto; display: block; margin: 0 auto;"><source src="/img-and-mp4/projekty_praca/recive.mp4" type="video/mp4"></video>
+<video controls style="width: 70%; max-width: 400px; height: auto; display: block; margin: 0 auto;"><source src="img-and-mp4/projekty_praca/recive.mp4" type="video/mp4"></video>
 
 
