@@ -1,7 +1,7 @@
 
 
 
-<div style="display: flex; align-items: center; gap: 25px; margin: 20px 0;"><div style="flex-basis: 30%; flex-shrink: 0; aspect-ratio: 1 / 1;"><img src="/img-and-mp4/cv_photo_escape_room.jpeg" alt="Awatar" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover;"></div><div><h3 style="margin: 0 0 8px 0; font-weight: bold;">O mnie:</h3><div style="font-style: italic;">Jestem osobą bardzo dobrze odnajdującą się w grupie, nie boje się wyzwań oraz presji czasu. Cechuje mnie wysoka kultura osobista.</div></div></div>
+<div style="display: flex; align-items: center; gap: 25px; margin: 20px 0;"><div style="flex-basis: 30%; flex-shrink: 0; aspect-ratio: 1 / 1;"><img src="img-and-mp4/cv_photo_escape_room.jpeg" alt="Awatar" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover;"></div><div><h3 style="margin: 0 0 8px 0; font-weight: bold;">O mnie:</h3><div style="font-style: italic;">Jestem osobą bardzo dobrze odnajdującą się w grupie, nie boje się wyzwań oraz presji czasu. Cechuje mnie wysoka kultura osobista.</div></div></div>
 
 
 !!! note annotate "**Wprowadzenie:**"
