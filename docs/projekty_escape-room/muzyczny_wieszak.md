@@ -48,15 +48,18 @@
   
   <!-- Pierwsze wideo (sw1.mp4) -->
   <video controls muted style="flex: 1; width: 45%; max-width: 400px; height: auto; border-radius: 8px;">
-    <source src="img-and-mp4/projekty_praca/sw1.mp4" type="video/mp4">
+    <!-- DODANO ./ NA POCZĄTKU ŚCIEŻKI -->
+    <source src="./img-and-mp4/projekty_praca/sw1.mp4" type="video/mp4">
     Twój edytor/przeglądarka nie obsługuje tagu wideo.
   </video>
 
   <!-- Drugie wideo (frezz1.mp4) -->
   <video controls muted style="flex: 1; width: 45%; max-width: 400px; height: auto; border-radius: 8px;">
-    <source src="img-and-mp4/projekty_praca/frezz1.mp4" type="video/mp4">
+    <!-- DODANO ./ NA POCZĄTKU ŚCIEŻKI -->
+    <source src="./img-and-mp4/projekty_praca/frezz1.mp4" type="video/mp4">
     Twój edytor/przeglądarka nie obsługuje tagu wideo.
   </video>
 
 </div>
+
 
