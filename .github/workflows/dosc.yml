@@ -33,6 +33,7 @@ jobs:
         run: |
           pip install mkdocs-material
           pip install mkdocs-glightbox
+          pip install mkdocs-static-i18n
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
