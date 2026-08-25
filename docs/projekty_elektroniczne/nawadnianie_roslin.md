@@ -3,7 +3,7 @@
 
 <
 
-<video controls style="width: 70%; max-width: 400px; height: auto; display: block; margin: 0 auto;"><source src="/img-and-mp4/projekty_wlasne/water-plant.mp4" type="video/mp4"></video>
+<video controls style="width: 70%; max-width: 400px; height: auto; display: block; margin: 0 auto;"><source src="img-and-mp4/projekty_wlasne/water-plant.mp4" type="video/mp4"></video>
 
 
 ### Cel i przeznaczenie projektu:
@@ -25,7 +25,7 @@ A(Wybranie trybu pracy<br>z poziomu aplikacji) --> B(Uruchomienie się mini pomp
 </div>
 
 
-<div style="text-align: center; margin: 20px 0;"><img src="/img-and-mp4/projekty_wlasne/water-plant1.png" alt="Zdjecie" style="width: 100%; max-width: 90%; height: auto; display: inline-block;"></div>
+<div style="text-align: center; margin: 20px 0;"><img src="img-and-mp4/projekty_wlasne/water-plant1.png" alt="Zdjecie" style="width: 100%; max-width: 90%; height: auto; display: inline-block;"></div>
 
 
 
