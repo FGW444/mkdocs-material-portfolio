@@ -3,7 +3,7 @@ name: Deploy MkDocs
 on:
   push:
     branches:
-      - main  # Zmień na master, jeśli tak nazywa się Twój główny branch
+      - main
 
 permissions:
   contents: read
@@ -18,7 +18,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps: deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -32,8 +32,6 @@ jobs:
       - name: Install dependencies
         run: |
           pip install mkdocs-material
-          # Jeśli używasz dodatkowych wtyczek, dopisz je tutaj, np.:
-          # pip install mkdocs-minify-plugin
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -44,7 +42,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./site  # MkDocs domyślnie buduje dokumentację do folderu /site
+          path: ./site
 
       - name: Deploy to GitHub Pages
         id: deployment
