@@ -25,7 +25,7 @@
 
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/img-and-mp4/projekty_wlasne/light-bhp.png" alt="Zdjecie" style="width: 100%; max-width: 45%; height: auto; display: inline-block;">
+  <img src="img-and-mp4/projekty_wlasne/light-bhp.png" alt="Zdjecie" style="width: 100%; max-width: 45%; height: auto; display: inline-block;">
 </div>
 
 
