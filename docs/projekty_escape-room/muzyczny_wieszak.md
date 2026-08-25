@@ -43,6 +43,6 @@
 
 ![moje zdjecie](../img-and-mp4/projekty_praca/hanger-collage1.png){ width="100%" style="display: block; margin: 0 auto;" }
 
-<div style="display: flex; justify-content: center; gap: 20px; width: 100%;"><video controls style="width: 45%; max-width: 400px; height: auto;"><source src="/img-and-mp4/projekty_praca/sw1.mp4" type="video/mp4"></video><video controls style="width: 45%; max-width: 400px; height: auto;"><source src="/img-and-mp4/projekty_praca/frezz1.mp4" type="video/mp4"></video></div>
+<div style="display: flex; justify-content: center; gap: 20px; width: 100%;"><video controls style="width: 45%; max-width: 400px; height: auto;"><source src="img-and-mp4/projekty_praca/sw1.mp4" type="video/mp4"></video><video controls style="width: 45%; max-width: 400px; height: auto;"><source src="img-and-mp4/projekty_praca/frezz1.mp4" type="video/mp4"></video></div>
 
 
