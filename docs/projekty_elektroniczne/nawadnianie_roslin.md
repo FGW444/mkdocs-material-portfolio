@@ -2,10 +2,10 @@
 
 
 
-<video controls style="width: 70%; max-width: 400px; height: auto; display: block; margin: 0 auto;"><source src="/img-and-mp4/projekty_wlasne/water-plant.mp4" type="video/mp4"></video>
+<video controls style="width: 70%; max-width: 400px; height: auto; display: block; margin: 0 auto;"><source src="/water-plant.mp4" type="video/mp4"></video>
 
 
-<video controls style="width: 70%; max-width: 400px; height: auto; display: block; margin: 0 auto;"><source src="../img-and-mp4/projekty_wlasne/water-plant.mp4" type="video/mp4"></video>
+<video controls style="width: 70%; max-width: 400px; height: auto; display: block; margin: 0 auto;"><source src="../water-plant.mp4" type="video/mp4"></video>
 
 
 ### Cel i przeznaczenie projektu:
