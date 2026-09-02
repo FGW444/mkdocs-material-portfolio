@@ -2,9 +2,6 @@
 
 # W.E.L.L.S - Bezprzewodowy System Monitorowania Oświetlenia Awaryjnego
 
-<div style="text-align: center; margin: 20px 0;"><img src="img-and-mp4/projekty_praca/wells-topologia.png" alt="Zdjecie" style="width: 100%; max-width: 90%; height: auto; display: inline-block;"></div>
-
-
 ![moje zdjecie](../img-and-mp4/projekty_praca/wells-topologia.png){ width="100%" style="display: block; margin: 0 auto;" }
 
 
@@ -14,11 +11,6 @@
 
     - System pozwala na zarządzanie stanem pracy oprawy: (stan wstrzymania, stan spoczynku, stan testowy, stan awarii) oraz otrzymywanie raportów o stanie opraw
 
-
-
-
-
-<div style="text-align: center; margin: 20px 0;"><img src="img-and-mp4/projekty_praca/wells-front.png" alt="Zdjecie" style="width: 100%; max-width: 60%; height: auto; display: inline-block;"></div>
 
 
 
