@@ -33,17 +33,19 @@ A(Wybranie trybu pracy<br>z poziomu aplikacji) --> B(Uruchomienie się mini pomp
 ### Złożenie projektu:
 
 
-<div style="text-align: center; margin: 20px 0;"><img src="/img-and-mp4/projekty_wlasne/water-part-collage1.jpg" alt="Zdjecie" style="width: 100%; max-width: 90%; height: auto; display: inline-block;"></div>
+<div style="text-align: center; margin: 20px 0;"><img src="../img-and-mp4/projekty_wlasne/water-part-collage1.jpg" alt="Zdjecie" style="width: 100%; max-width: 90%; height: auto; display: inline-block;"></div>
+
+
 
 
 ### Fragment z testów prototypów:
 
-<div style="text-align: center; margin: 20px 0;"><img src="/img-and-mp4/projekty_wlasne/water-part-colale2.png" alt="Zdjecie" style="width: 100%; max-width: 90%; height: auto; display: inline-block;"></div>
+<div style="text-align: center; margin: 20px 0;"><img src="../img-and-mp4/projekty_wlasne/water-part-colale2.png" alt="Zdjecie" style="width: 100%; max-width: 90%; height: auto; display: inline-block;"></div>
 
 
 **Test poprawności komunikacji z aplikacją:**
 
-<video controls style="width: 70%; max-width: 400px; height: auto; display: block; margin: 0 auto;"><source src="/img-and-mp4/projekty_wlasne/water-plant-test1.mp4" type="video/mp4"></video>
+<video controls style="width: 70%; max-width: 400px; height: auto; display: block; margin: 0 auto;"><source src="../img-and-mp4/projekty_wlasne/water-plant-test1.mp4" type="video/mp4"></video>
 
 
 
