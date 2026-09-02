@@ -44,20 +44,7 @@
 ![moje zdjecie](../img-and-mp4/projekty_praca/hanger-collage1.png){ width="100%" style="display: block; margin: 0 auto;" }
 
 
-<div style="display: flex; justify-content: center; gap: 20px; width: 100%; box-sizing: border-box; margin: 20px 0;">
-  
-  <!-- Pierwsze wideo -->
-  <video controls muted style="flex: 1; width: 100%; max-width: 500px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
-    <source src="../sw1.mp4" type="video/mp4">
-    Przeglądarka nie obsługuje tagu wideo.
-  </video>
 
-  <!-- Drugie wideo -->
-  <video controls muted style="flex: 1; width: 100%; max-width: 500px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px;">
-    <source src="../frezz1.mp4" type="video/mp4">
-    Przeglądarka nie obsługuje tagu wideo.
-  </video>
 
-</div>
-
+<div style="display: flex; justify-content: center; gap: 20px; width: 100%;"><video controls style="width: 45%; max-width: 400px; height: auto;"><source src="../sw1.mp4" type="video/mp4"></video><video controls style="width: 45%; max-width: 400px; height: auto;"><source src="../frezz1.mp4" type="video/mp4"></video></div>
 
