@@ -5,6 +5,7 @@
 <div style="text-align: center; margin: 20px 0;"><img src="img-and-mp4/projekty_praca/wells-topologia.png" alt="Zdjecie" style="width: 100%; max-width: 90%; height: auto; display: inline-block;"></div>
 
 
+![moje zdjecie](../img-and-mp4/projekty_praca/wells-topologia.png){ width="100%" style="display: block; margin: 0 auto;" }
 
 
 
@@ -19,6 +20,9 @@
 
 <div style="text-align: center; margin: 20px 0;"><img src="img-and-mp4/projekty_praca/wells-front.png" alt="Zdjecie" style="width: 100%; max-width: 60%; height: auto; display: inline-block;"></div>
 
+
+
+![moje zdjecie](../img-and-mp4/projekty_praca/wells-front.png){ width="100%" style="display: block; margin: 0 auto;" }
 
 ## Centrala Sterująca Systemu WELLS:
 
