@@ -24,11 +24,8 @@
     PAMIĘTAJ: Mata izolacyjna pod stopami chroni Cię przed przebiciem do ziemi, ale w żaden sposób nie chroni Cię, jeśli dotkniesz obu elektrod jednocześnie obiema rękami!
 
 
-<div style="text-align: center; margin: 20px 0;">
-  <img src="img-and-mp4/projekty_wlasne/light-bhp.png" alt="Zdjecie" style="width: 100%; max-width: 45%; height: auto; display: inline-block;">
-</div>
 
-
+![moje zdjecie](../img-and-mp4/projekty_wlasne/light-bhp.png){ width="100%" style="display: block; margin: 0 auto;" }
 
 
 !!! note annotate "**Uwaga:**"
@@ -61,7 +58,7 @@ A(Transformator podłączony <br>do zasilania 230V <br> z bezpiecznikiem <br>top
 **Prezentacja sztucznie wytworzonego piorunu:**
 
 
-<video controls style="width: 70%; max-width: 400px; height: auto; display: block; margin: 0 auto;"><source src="/img-and-mp4/projekty_wlasne/luk2.mp4" type="video/mp4"></video>
+<video controls style="width: 70%; max-width: 400px; height: auto; display: block; margin: 0 auto;"><source src="../luk2.mp4" type="video/mp4"></video>
 
 
 
