@@ -21,15 +21,6 @@ A(Wybranie trybu pracy<br>z poziomu aplikacji) --> B(Uruchomienie się mini pomp
 ```
 
 
-<div style="width: 100%;">
-
-
-</div>
-
-
-<div style="text-align: center; margin: 20px 0;"><img src="img-and-mp4/projekty_wlasne/water-plant1.png" alt="Zdjecie" style="width: 100%; max-width: 90%; height: auto; display: inline-block;"></div>
-
-
 
 ![moje zdjecie](../img-and-mp4/projekty_wlasne/water-plant1.png){ width="100%" style="display: block; margin: 0 auto;" }
 
@@ -37,15 +28,13 @@ A(Wybranie trybu pracy<br>z poziomu aplikacji) --> B(Uruchomienie się mini pomp
 ### Złożenie projektu:
 
 
-<div style="text-align: center; margin: 20px 0;"><img src="../img-and-mp4/projekty_wlasne/water-part-collage1.jpg" alt="Zdjecie" style="width: 100%; max-width: 90%; height: auto; display: inline-block;"></div>
-
 
 ![moje zdjecie](../img-and-mp4/projekty_wlasne/water-part-collage1.jpg){ width="100%" style="display: block; margin: 0 auto;" }
 
 
 ### Fragment z testów prototypów:
 
-<div style="text-align: center; margin: 20px 0;"><img src="../img-and-mp4/projekty_wlasne/water-part-colale2.png" alt="Zdjecie" style="width: 100%; max-width: 90%; height: auto; display: inline-block;"></div>
+
 
 
 ![moje zdjecie](../img-and-mp4/projekty_wlasne/water-part-colale2.png){ width="100%" style="display: block; margin: 0 auto;" }
