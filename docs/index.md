@@ -77,7 +77,7 @@
       
       - Projektowanie ścieżek PCB z zachowanie istniejących zasad firmy (rulsy, DRC, odpowiednie wartstwy, oznaczenia desygnatorów, fiduciale), 
   
-      - Generowanie plików produkcyjnych schematy, rysunki montażone, Pnp, BOM, NC. (**narzędzia:** Altium designer).
+      - Generowanie plików produkcyjnych schematy, rysunki montażowe, Pnp, BOM, NC. (**narzędzia:** Altium designer).
 
       ---
 
